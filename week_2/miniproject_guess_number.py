@@ -113,12 +113,14 @@ w = Canvas(frame, width = 600, height = 300)
 w.create_rectangle(300,0, 600,300, fill = "Gray")
 w.pack()
 
-btn_range100 = Button(frame, text = "Range [0, 100)", width = 20, command = range100 ).place(x= 10, y = 10)
-btn_range1000 = Button(frame, text= "Range [0, 1000)", width = 20, command = range1000).place(x = 10, y = 40)
+#btn_range100 = Button(frame, text = "Range [0, 100)", width = 20, command = range100 ).place(x= 10, y = 10)
+Button(frame, text = "Range [0, 100)", width = 20, command = range100 ).place(x= 10, y = 10)
+#btn_range1000 = Button(frame, text= "Range [0, 1000)", width = 20, command = range1000).place(x = 10, y = 40)
+Button(frame, text= "Range [0, 1000)", width = 20, command = range1000).place(x = 10, y = 40)
 Label(frame, text = "Enter the guess number").place(x = 10, y = 70 )
 # input fied to enter the Guess number
 inp_number = Entry(frame)
-inp_number.bind('<Return>', (lambda event: input_guess( inp_number.get() ) ))
+inp_number.bind('<Return>', (lambda event: input_guess(inp_number.get() ) ))
 inp = w.create_window(80, 100, window = inp_number, width= 130, height = 20)
 
 # frame = simplegui.create_frame("GUESS THE NUMBER", 200, 200)
