@@ -91,6 +91,33 @@ def rpsls(player_choice):
         print( "Computer wins!")
 
 
+# http://www.codeskulptor.org/iipp-practice-experimental/#user47_r8RJsxlF1W_1.py
+
+
+
+def get_guess(guess):    
+    # validate input
+    if not (guess == "rock" or guess == "Spock" or guess == "paper" or
+            guess == "lizard" or guess == "scissors"):
+        print("")
+        print ('Error: Bad input "' + guess + '" to rpsls')
+        return
+    else:
+        rpsls(guess)
+
+frame = Tk()
+frame.title("GUI-based RPSLS")
+w = Canvas (frame, width = 600, height = 300)
+w.create_rectangle(300, 0 , 600, 300, fill = 'Gray')
+w.pack()
+Label(frame, text="Enter guess for RPSLS").place(x = 10 , y = 10 )
+# input field that respond enter key
+enter_playernumber = Entry(frame)
+enter_playernumber.bind("<Return>", (lambda event: get_guess(enter_playernumber.get())))
+inp = w.create_window(80, 50, window=enter_playernumber, height=20, width=130)
+
+mainloop()
+
 # test your code - THESE CALLS MUST BE PRESENT IN YOUR SUBMITTED CODE
 rpsls("rock")
 rpsls("Spock")
