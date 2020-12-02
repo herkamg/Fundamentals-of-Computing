@@ -15,8 +15,11 @@
 # helper functions
 import random
 
+<<<<<<< HEAD
 from tkinter import*
 
+=======
+>>>>>>> 67389ee961c01b2bdafc2059c9506bab3526aac6
 def name_to_number(name):
     # delete the following pass statement and fill in your code below
     if name == "rock":
@@ -56,6 +59,10 @@ def number_to_name(number):
     
     # convert number to a name using if/elif/else
     # don't forget to return the result!
+<<<<<<< HEAD
+=======
+    
+>>>>>>> 67389ee961c01b2bdafc2059c9506bab3526aac6
 
 def rpsls(player_choice): 
     # delete the following pass statement and fill in your code below
@@ -90,7 +97,11 @@ def rpsls(player_choice):
     else:
         print( "Computer wins!")
 
+<<<<<<< HEAD
 
+=======
+    
+>>>>>>> 67389ee961c01b2bdafc2059c9506bab3526aac6
 # test your code - THESE CALLS MUST BE PRESENT IN YOUR SUBMITTED CODE
 rpsls("rock")
 rpsls("Spock")

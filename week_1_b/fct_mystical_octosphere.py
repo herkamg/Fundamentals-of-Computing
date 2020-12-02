@@ -1,6 +1,10 @@
 # Example Mini-Project:
 # THE MYSTICAL OCTOSPHERE! by Andrea Crain
+<<<<<<< HEAD
 http://www.codeskulptor.org/#exercises-octosphere_template.py
+=======
+# http://www.codeskulptor.org/#exercises-octosphere_template.py
+>>>>>>> 67389ee961c01b2bdafc2059c9506bab3526aac6
 
 # This game is based on a common toy. It is a 
 # round black ball with a clear plastic window. 
