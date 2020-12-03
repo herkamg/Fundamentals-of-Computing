@@ -1,0 +1,8 @@
+mouse input:
+http://www.codeskulptor.org/#user47_2vPGRoxXjt_0.py
+
+http://www.codeskulptor.org/#examples-list_methods.py
+
+http://www.codeskulptor.org/#examples-list_selection.py
+
+http://www.codeskulptor.org/#examples-iteration.py
