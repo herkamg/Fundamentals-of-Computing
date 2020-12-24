@@ -1,0 +1,2 @@
+Draw handler updates the canvas using a collection
+of draw commands that incldes draw _line, draw_circle

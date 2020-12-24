@@ -1,0 +1,33 @@
+Tile class:
+http://www.codeskulptor.org/iipp-practice-experimental/#user47_PCKLiI6Hwg_0.py
+
+create a Tile Object
+http://www.codeskulptor.org/iipp-practice-experimental/#user47_nCIPOO6mlK_0.py
+
+initialzer for Tile class
+http://www.codeskulptor.org/iipp-practice-experimental/#user47_BS6YfaJMAm_0.py
+
+Example methode for the tile class 
+http://www.codeskulptor.org/iipp-practice-experimental/#user47_NDDAyRy4UH_0.py
+
+Methode for exposing and hiding the a tile Object
+http://www.codeskulptor.org/iipp-practice-experimental/#user47_EWx8HRpZRo_1.py
+
+__str__ methode for tile class
+http://www.codeskulptor.org/iipp-practice-experimental/#user47_qnDWv4HSfF_0.py
+
+
+draw_tile method for the Tile
+http://www.codeskulptor.org/iipp-practice-experimental/#user47_jrw9NSroqU_0.py
+
+is_selected method for Tile
+http://www.codeskulptor.org/iipp-practice-experimental/#user47_MCX5zRsw4j_1.py
+
+4 X 4 memory game
+http://www.codeskulptor.org/iipp-practice-experimental/#user47_MCX5zRsw4j_2.py
+
+dynamic 4 rows memory game
+http://www.codeskulptor.org/iipp-practice-experimental/#user47_MCX5zRsw4j_3.py
+
+dynamic 2 rows memory game
+http://www.codeskulptor.org/iipp-practice-experimental/#user47_MCX5zRsw4j_5.py

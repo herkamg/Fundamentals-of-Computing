@@ -1,8 +1,9 @@
 Program structure
-    Global (state)
-    Helper functions    
-    classes (later)
-    Define event handlers 
-    create a frame
-    Register event handlers
-    Start frame & timers
+
+Global (state)
+Helper functions    
+classes (later)
+Define event handlers 
+create a frame
+Register event handlers
+Start frame & timers

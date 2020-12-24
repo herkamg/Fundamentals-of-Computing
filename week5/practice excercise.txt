@@ -1,1 +1,18 @@
 http://www.codeskulptor.org/iipp-practice-experimental/#user47_SNKv65tW0g_1.py
+
+Circle clicking problem
+http://www.codeskulptor.org/iipp-practice-experimental/#user47_lfevrXC15i_0.py
+
+
+# Day to number problem
+http://www.codeskulptor.org/iipp-practice-experimental/#user47_NGQtqXzMbo_0.py
+
+http://www.codeskulptor.org/iipp-practice-experimental/#exercises_mouse_day_solution.py
+
+
+# String list joining problem
+http://www.codeskulptor.org/iipp-practice-experimental/#user47_aYJqQgMUiY_0.py
+http://www.codeskulptor.org/iipp-practice-experimental/#exercises_mouse_join_solution.py
+
+
+# Ball grid slution
